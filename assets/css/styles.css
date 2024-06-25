@@ -102,7 +102,9 @@ html,body{
   border:solid 2px hsl(14, 100%, 50%);
 }
 
-
+.large-text{
+  font-size: 1.3em;
+}
 
 
 .card2 {
@@ -907,7 +909,7 @@ body.dark-theme {
   height: 1px;
   background-color: var(--text-color);
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 0;
 }
 
